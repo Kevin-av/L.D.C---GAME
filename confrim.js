@@ -1,0 +1,1 @@
+confirm("¿Estás listo para adentrarte en la oscuridad y enfrentar tu destino?");    
