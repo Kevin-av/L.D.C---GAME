@@ -3,4 +3,6 @@ function comenzar(perfecto,comenzemos){
     console.log("Start" + perfecto+ "" +comenzemos);
     alert("Estas Listo?"+ perfecto+ "" +comenzemos)
 }
-
+function PlayAudio(){
+    document.getElementById("musica1").play();
+}
