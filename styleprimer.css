@@ -4,5 +4,11 @@ body{
     background-image: url(Limbo);
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
+}
+.titu{
+    width: 100px;
+    color: aliceblue;
+    
 }
