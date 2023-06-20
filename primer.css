@@ -1,9 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(Limbo);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url(imagenes/Infierno\ 1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
