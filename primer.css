@@ -12,3 +12,9 @@ body{
     color: aliceblue;
     
 }
+.heart{
+    display: flex;
+    align-items: flex-start;
+    justify-content: right;
+    
+}
