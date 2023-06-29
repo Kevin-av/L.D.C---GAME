@@ -11,6 +11,15 @@ body{
     font-family:consolas;
     background-color: rgb(0, 0, 0);
 }
+
+.title{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+    padding: 0 20px;
+}
 .btn-neon{
     position: relative;
     display: inline-block;
